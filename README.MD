@@ -1,5 +1,5 @@
 # Hey There! 👋
-**I'm Sock (he/him)** - I'm a student developer ! NO MORE :c
+**I'm Sock (he/him)**
 
 ## My language:
 [![SkillIcons](https://skillicons.dev/icons?i=ts,js,java,html,css)](https://skillicons.dev)
